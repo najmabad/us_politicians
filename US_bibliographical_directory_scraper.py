@@ -5,7 +5,7 @@ import pandas as pd
 
 def find_politicians(congress):
     """
-    scrapes the Bibliographical Directory of the US Congress and returns a DataFrame with politicians'
+    scrapes the Bibliographical Directory of the US Congress and returns a DataFrame with politicians
     serving in that Congress.
 
     :param congress: congress number (e.g. 114)
